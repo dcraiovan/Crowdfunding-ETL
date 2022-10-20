@@ -11,4 +11,6 @@ This assignment consists of four technical analysis deliverables:
   - Using the ERD that you created in this module, you’ll create a backers table that has primary and foreign keys based on the summary information about the backers.csv dataset. You'll then export the updated database schema as a PostgreSQL file and use it to create the backers table in the crowdfunding_db database. Finally, you'll use pgAdmin to upload the backers.csv file into the backers table.
   
 - Deliverable 4: SQL Analysis
-  - Using SQL, we performed a data analysis on the crowdfunding_db database.
+  - Using SQL, we performed a data analysis on the crowdfunding_db database:
+    - email_contacts_remaining_goal_amount.csv
+    - email_backers_remaining_goal_amount.csv
